@@ -10,4 +10,4 @@ Atualmente estou desenvolvendo projetos com as seguintes tecnologias:
 
    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
-    <img src="https://www.cleanpng.com/free/javascript-logo.html" alt="imagem-javaScript">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_w_jkPUpndXd8L0PGVv0Lip2FILvr_5Crlw&s" alt="imagem-javaScript">
