@@ -10,4 +10,4 @@ Atualmente estou desenvolvendo projetos com as seguintes tecnologias:
 
    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
-    <img src="https://www.vecteezy.com/png/27127463-javascript-logo-png-javascript-icon-transparent-png" alt=""[htimagem-javaScript">
+    <img src="https://www.google.com/imgres?q=icon%20svg%20javascript%20icon%20png&imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2023%2F02%2FJavaScript-Logo.png&imgrefurl=https%3A%2F%2Flogos-world.net%2Fjavascript-logo%2F&docid=U_eH_ntCAo2sxM&tbnid=DXyN1B871e1LfM&vet=12ahUKEwi92qTWi_GSAxVfC7kGHTQCKHMQnPAOegQIGxAB..i&w=3840&h=2160&hcb=2&ved=2ahUKEwi92qTWi_GSAxVfC7kGHTQCKHMQnPAOegQIGxAB" alt=""[htimagem-javaScript">
